@@ -1,0 +1,1278 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cirkle Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-17 10:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: cirkle-core"
+
+#: inc/rt-posts.php:64
+#, php-format
+msgid "%s  updated."
+msgstr ""
+
+#: inc/rt-posts.php:53
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: inc/rt-posts.php:54
+#, php-format
+msgid "%s Attributes"
+msgstr ""
+
+#: inc/rt-posts.php:50
+#, php-format
+msgid "%s found in Trash"
+msgstr ""
+
+#: inc/rt-posts.php:59 inc/rt-posts.php:118
+#, php-format
+msgid "%s list"
+msgstr ""
+
+#: inc/rt-posts.php:58 inc/rt-posts.php:117
+#, php-format
+msgid "%s list navigation"
+msgstr ""
+
+#: inc/rt-posts.php:49
+#, php-format
+msgid "%s not found"
+msgstr ""
+
+#: inc/rt-posts.php:61
+#, php-format
+msgid "%s published privately."
+msgstr ""
+
+#: inc/rt-posts.php:60
+#, php-format
+msgid "%s published."
+msgstr ""
+
+#: inc/rt-posts.php:62
+#, php-format
+msgid "%s reverted to draft."
+msgstr ""
+
+#: inc/rt-posts.php:63
+#, php-format
+msgid "%s scheduled."
+msgstr ""
+
+#: inc/rt-posts.php:119
+#, php-format
+msgid "&larr; Back to %s"
+msgstr ""
+
+#: elementor/base.php:130
+msgid "1"
+msgstr ""
+
+#: elementor/base.php:120
+msgid "1 Columns"
+msgstr ""
+
+#: elementor/base.php:144
+msgid "1000"
+msgstr ""
+
+#: elementor/base.php:145
+msgid "1500"
+msgstr ""
+
+#: elementor/base.php:131
+msgid "2"
+msgstr ""
+
+#: elementor/base.php:121
+msgid "2 Columns"
+msgstr ""
+
+#: elementor/base.php:154
+msgid "200"
+msgstr ""
+
+#: elementor/base.php:146
+msgid "2000"
+msgstr ""
+
+#: elementor/base.php:147
+msgid "2500"
+msgstr ""
+
+#: elementor/base.php:132
+msgid "3"
+msgstr ""
+
+#: elementor/base.php:122
+msgid "3 Columns"
+msgstr ""
+
+#: elementor/base.php:155
+msgid "300"
+msgstr ""
+
+#: elementor/base.php:148
+msgid "3000"
+msgstr ""
+
+#: elementor/base.php:133
+msgid "4"
+msgstr ""
+
+#: elementor/base.php:123
+msgid "4 Columns"
+msgstr ""
+
+#: elementor/base.php:156
+msgid "400"
+msgstr ""
+
+#: elementor/base.php:134
+msgid "5"
+msgstr ""
+
+#: elementor/base.php:143 elementor/base.php:157
+msgid "500"
+msgstr ""
+
+#: elementor/base.php:135
+msgid "6"
+msgstr ""
+
+#: elementor/base.php:124
+msgid "6 Columns"
+msgstr ""
+
+#: elementor/base.php:158
+msgid "600"
+msgstr ""
+
+#: elementor/base.php:136
+msgid "7"
+msgstr ""
+
+#: elementor/base.php:159
+msgid "700"
+msgstr ""
+
+#: elementor/base.php:137
+msgid "8"
+msgstr ""
+
+#: elementor/base.php:160
+msgid "800"
+msgstr ""
+
+#: elementor/base.php:161
+msgid "900"
+msgstr ""
+
+#: widgets/bblogin.php:31
+msgid ""
+"A simple login form with optional links to sign-up and lost password pages."
+msgstr ""
+
+#. Base ID
+#: widgets/contact.php:19
+msgid "A2: Contact"
+msgstr ""
+
+#. Base ID
+#: widgets/newsletter.php:19
+msgid "A3: Newsletter"
+msgstr ""
+
+#. Base ID
+#: widgets/post.php:19
+msgid "A3: Posts"
+msgstr ""
+
+#. Base ID
+#: widgets/about.php:19
+msgid "A6: About"
+msgstr ""
+
+#. Base ID
+#: widgets/about-me.php:19
+msgid "A7: About Me"
+msgstr ""
+
+#. Base ID
+#: widgets/ad-widget.php:19
+msgid "A8: Advertisement"
+msgstr ""
+
+#: inc/demo-importer.php:49
+msgid "Activity"
+msgstr ""
+
+#: elementor/members/class.php:55
+msgid "Add animation shape image as you want"
+msgstr ""
+
+#: elementor/testimonial/class.php:84 elementor/testimonial/class.php:121
+msgid "Add as many slides as you want"
+msgstr ""
+
+#: elementor/locations/class.php:46 elementor/features/class.php:62
+msgid "Add many list as you want"
+msgstr ""
+
+#: elementor/anim-shape/class.php:36 elementor/newsletter/class.php:54
+#: elementor/contact/class.php:71
+msgid "Add many shape as you want"
+msgstr ""
+
+#: inc/rt-posts.php:42
+msgid "Add New"
+msgstr ""
+
+#: inc/rt-posts.php:43 inc/rt-posts.php:110
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: inc/post-meta.php:157 inc/post-meta.php:201
+msgid "Add New Info"
+msgstr ""
+
+#: inc/post-meta.php:245
+msgid "Add New Skill"
+msgstr ""
+
+#: inc/rt-posts.php:113
+#, php-format
+msgid "Add or remove %s"
+msgstr ""
+
+#: widgets/contact.php:106
+msgid "Address"
+msgstr ""
+
+#: elementor/posts/class.php:81
+msgid "Admin"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:52
+msgid "After you import this sample-data, you will have to re save permalik."
+msgstr ""
+
+#: elementor/button/class.php:52
+msgid "Alignment"
+msgstr ""
+
+#: inc/rt-posts.php:52 inc/rt-posts.php:104
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: widgets/post.php:109
+msgid "All Categories"
+msgstr ""
+
+#: elementor/testimonial/class.php:115 elementor/anim-shape/class.php:21
+#: elementor/anim-shape/class.php:31
+msgid "Animation Shape"
+msgstr ""
+
+#: elementor/mobile-apps/class.php:38
+msgid "App Image"
+msgstr ""
+
+#: elementor/testimonial/class.php:172
+msgid "Arrow"
+msgstr ""
+
+#: elementor/testimonial/class.php:148
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/testimonial/class.php:156
+msgid "Autoplay Speed"
+msgstr ""
+
+#: elementor/chooseus/class.php:188 elementor/button/class.php:95
+#: elementor/button/class.php:115 elementor/video/class.php:109
+#: elementor/video/class.php:137
+msgid "Background"
+msgstr ""
+
+#: elementor/locations/class.php:64 elementor/banner/class.php:298
+#: elementor/features/class.php:94 elementor/features/class.php:115
+msgid "Background Color"
+msgstr ""
+
+#: elementor/chooseus/class.php:99
+msgid "Background image"
+msgstr ""
+
+#: inc/post-meta.php:126
+msgid "Background Opacity"
+msgstr ""
+
+#: elementor/banner/class.php:21
+msgid "Banner"
+msgstr ""
+
+#: inc/post-meta.php:121
+msgid "Banner Background Color"
+msgstr ""
+
+#: elementor/banner/class.php:32
+msgid "Banner Section"
+msgstr ""
+
+#: widgets/bblogin.php:35
+msgid "BBP Login Widget"
+msgstr ""
+
+#: elementor/posts/class.php:178
+msgid "BG Color"
+msgstr ""
+
+#: elementor/banner/class.php:38 elementor/near-people/class.php:40
+msgid "BG Image"
+msgstr ""
+
+#: elementor/chooseus/class.php:195 elementor/banner/class.php:311
+#: elementor/button/class.php:102 elementor/video/class.php:116
+msgid "Border"
+msgstr ""
+
+#: elementor/video/class.php:143
+msgid "Border Color"
+msgstr ""
+
+#: inc/post-meta.php:100
+msgid "Breadcrumb"
+msgstr ""
+
+#: elementor/banner/class.php:276 elementor/button/class.php:23
+#: elementor/button/class.php:73
+msgid "Button"
+msgstr ""
+
+#: elementor/banner/class.php:304
+msgid "Button Border"
+msgstr ""
+
+#: widgets/ad-widget.php:103 elementor/banner/class.php:83
+msgid "Button Link"
+msgstr ""
+
+#: elementor/chooseus/class.php:167
+msgid "Button Style"
+msgstr ""
+
+#: widgets/ad-widget.php:99 elementor/banner/class.php:76
+msgid "Button Text"
+msgstr ""
+
+#: widgets/post.php:127 elementor/posts/class.php:61
+msgid "Category"
+msgstr ""
+
+#: elementor/base.php:104
+msgid "Center"
+msgstr ""
+
+#: inc/rt-posts.php:114
+#, php-format
+msgid "Choose from the most used %s"
+msgstr ""
+
+#: elementor/chooseus/class.php:33
+msgid "Choose Us"
+msgstr ""
+
+#. Name of the plugin
+msgid "Cirkle Core"
+msgstr ""
+
+#. Description of the plugin
+msgid "Cirkle Core Plugin for Cirkle Theme"
+msgstr ""
+
+#: widgets/about-me.php:20
+msgid "Cirkle: About Me Widget"
+msgstr ""
+
+#: widgets/about.php:20
+msgid "Cirkle: About Widget"
+msgstr ""
+
+#: widgets/ad-widget.php:20
+msgid "Cirkle: Advertisement Widget"
+msgstr ""
+
+#: widgets/contact.php:20
+msgid "Cirkle: Contact Widget"
+msgstr ""
+
+#: widgets/newsletter.php:20
+msgid "Cirkle: Newsletter Widget"
+msgstr ""
+
+#: widgets/post.php:20
+msgid "Cirkle: Posts Widget"
+msgstr ""
+
+#: elementor/members/class.php:78 elementor/posts/class.php:138
+#: elementor/posts/class.php:170 elementor/posts/class.php:194
+#: elementor/posts/class.php:215 elementor/groups/class.php:64
+#: elementor/testimonial/class.php:230 elementor/testimonial/class.php:250
+#: elementor/testimonial/class.php:270 elementor/chooseus/class.php:123
+#: elementor/chooseus/class.php:145 elementor/chooseus/class.php:172
+#: elementor/banner/class.php:188 elementor/banner/class.php:212
+#: elementor/banner/class.php:236 elementor/banner/class.php:259
+#: elementor/banner/class.php:282 elementor/button/class.php:79
+#: elementor/title/class.php:101 elementor/title/class.php:133
+#: elementor/title/class.php:155 elementor/title/class.php:178
+#: elementor/video/class.php:91 elementor/video/class.php:128
+#: elementor/near-people/class.php:81 elementor/features/class.php:106
+#: elementor/features/class.php:132 elementor/features/class.php:153
+msgid "Color"
+msgstr ""
+
+#: elementor/posts/class.php:92
+msgid "Comments"
+msgstr ""
+
+#: elementor/contact/class.php:21 elementor/contact/class.php:48
+msgid "Contact"
+msgstr ""
+
+#: inc/post-meta.php:283
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: inc/post-meta.php:279
+msgid "Contact Title"
+msgstr ""
+
+#: elementor/posts/class.php:52
+msgid "Content excerpt number"
+msgstr ""
+
+#: elementor/near-people/class.php:48
+msgid "Country"
+msgstr ""
+
+#: widgets/post.php:81
+msgid "Currently there are no posts to display"
+msgstr ""
+
+#: widgets/post.php:118
+msgid "Custom Order (Available via Order field inside Page Attributes box)"
+msgstr ""
+
+#: elementor/posts/class.php:71
+msgid "Date"
+msgstr ""
+
+#: widgets/post.php:116
+msgid "Date (Recents comes first)"
+msgstr ""
+
+#: inc/post-meta.php:55 inc/post-meta.php:62 inc/post-meta.php:73
+#: inc/post-meta.php:83 inc/post-meta.php:103 inc/post-meta.php:113
+msgid "Default"
+msgstr ""
+
+#: inc/post-meta.php:135
+msgid "default menu background height will be used 200 \"px\""
+msgstr ""
+
+#: widgets/newsletter.php:81 widgets/about.php:83
+#: elementor/chooseus/class.php:74 elementor/banner/class.php:55
+#: elementor/banner/class.php:206 elementor/newsletter/class.php:42
+#: elementor/title/class.php:78
+msgid "Description"
+msgstr ""
+
+#: elementor/chooseus/class.php:139 elementor/title/class.php:149
+msgid "Description Style"
+msgstr ""
+
+#: elementor/testimonial/class.php:51 elementor/testimonial/class.php:244
+msgid "Designation"
+msgstr ""
+
+#: inc/post-meta.php:105 inc/post-meta.php:115
+msgid "Disable"
+msgstr ""
+
+#: elementor/testimonial/class.php:164
+msgid "Dots"
+msgstr ""
+
+#: inc/rt-posts.php:44 inc/rt-posts.php:107
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: widgets/contact.php:114
+msgid "Email"
+msgstr ""
+
+#: inc/post-meta.php:104 inc/post-meta.php:114
+msgid "Enable"
+msgstr ""
+
+#: elementor/testimonial/class.php:151
+msgid "Enable or disable autoplay. Default: On"
+msgstr ""
+
+#: elementor/testimonial/class.php:143
+msgid "Enable or disable fade. Default: Off"
+msgstr ""
+
+#: elementor/testimonial/class.php:167 elementor/testimonial/class.php:175
+msgid "Enable or disable nav dots. Default: off"
+msgstr ""
+
+#: elementor/posts/class.php:86
+msgid "Enable or disable post admin. Default: On"
+msgstr ""
+
+#: elementor/posts/class.php:66
+msgid "Enable or disable post category. Default: On"
+msgstr ""
+
+#: elementor/posts/class.php:97
+msgid "Enable or disable post comments. Default: On"
+msgstr ""
+
+#: elementor/posts/class.php:76
+msgid "Enable or disable post date. Default: On"
+msgstr ""
+
+#: inc/post-meta.php:25
+msgid "Facebook"
+msgstr ""
+
+#: elementor/testimonial/class.php:140
+msgid "Fade"
+msgstr ""
+
+#: elementor/features/class.php:22
+msgid "Features List"
+msgstr ""
+
+#: inc/rt-posts.php:57
+#, php-format
+msgid "Filter %s list"
+msgstr ""
+
+#: elementor/init.php:67
+msgid "Flat Icons"
+msgstr ""
+
+#: inc/post-meta.php:80
+msgid "Footer Layout"
+msgstr ""
+
+#: widgets/newsletter.php:77 elementor/contact/class.php:59
+msgid "Form Shortcode"
+msgstr ""
+
+#: elementor/contact/class.php:53
+msgid "Form Title"
+msgstr ""
+
+#: inc/post-meta.php:63
+msgid "Full Width"
+msgstr ""
+
+#: elementor/prograss/class.php:31 elementor/button/class.php:33
+#: elementor/title/class.php:32 elementor/near-people/class.php:34
+msgid "General"
+msgstr ""
+
+#: elementor/posts/class.php:102 elementor/testimonial/class.php:74
+msgid "Grid Columns"
+msgstr ""
+
+#: elementor/members/view.php:59 elementor/groups/class.php:22
+msgid "Groups"
+msgstr ""
+
+#: inc/post-meta.php:70
+msgid "Header Layout"
+msgstr ""
+
+#: inc/demo-importer.php:54
+msgid "Home"
+msgstr ""
+
+#: elementor/features/class.php:100 elementor/features/class.php:147
+msgid "Hover"
+msgstr ""
+
+#: elementor/posts/class.php:157 elementor/title/class.php:195
+#: elementor/near-people/class.php:94
+msgid "Hover Color"
+msgstr ""
+
+#: elementor/video/class.php:122
+msgid "Hover Style"
+msgstr ""
+
+#: elementor/chooseus/class.php:48 elementor/title/class.php:47
+msgid "HTML Tag"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.radiustheme.com"
+msgstr ""
+
+#: elementor/prograss/class.php:36 elementor/button/class.php:108
+#: elementor/contact/class.php:31 elementor/features/class.php:33
+msgid "Icon"
+msgstr ""
+
+#: inc/post-meta.php:123
+msgid "If not selected, default will be used"
+msgstr ""
+
+#: widgets/ad-widget.php:87 elementor/members/class.php:33
+#: elementor/locations/class.php:32 elementor/anim-shape/class.php:41
+#: elementor/newsletter/class.php:59
+msgid "Image"
+msgstr ""
+
+#: elementor/video/class.php:38
+msgid "Image 1"
+msgstr ""
+
+#: elementor/video/class.php:48
+msgid "Image 2"
+msgstr ""
+
+#: elementor/testimonial/class.php:37 elementor/testimonial/class.php:106
+msgid "Image size should be 105px"
+msgstr ""
+
+#: inc/post-meta.php:165 inc/post-meta.php:209
+msgid "Info Text"
+msgstr ""
+
+#: inc/post-meta.php:160 inc/post-meta.php:204
+msgid "Info Title"
+msgstr ""
+
+#: inc/rt-posts.php:55
+#, php-format
+msgid "Insert into %s"
+msgstr ""
+
+#: inc/post-meta.php:37
+msgid "Instagram"
+msgstr ""
+
+#: inc/demo-importer.php:34
+msgid "Install Demo Contents"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:108 inc/demo-importer-ocdi.php:109
+msgid "Install Demos"
+msgstr ""
+
+#: elementor/base.php:112
+msgid "Justified"
+msgstr ""
+
+#: inc/post-meta.php:59
+msgid "Layout"
+msgstr ""
+
+#: inc/post-meta.php:74 inc/post-meta.php:84 elementor/posts/class.php:113
+msgid "Layout 1"
+msgstr ""
+
+#: inc/post-meta.php:75 inc/post-meta.php:85 elementor/posts/class.php:114
+msgid "Layout 2"
+msgstr ""
+
+#: inc/post-meta.php:56
+msgid "Layout Settings"
+msgstr ""
+
+#: elementor/base.php:100
+msgid "Left"
+msgstr ""
+
+#: inc/post-meta.php:64
+msgid "Left Sidebar"
+msgstr ""
+
+#: elementor/chooseus/class.php:87 elementor/button/class.php:45
+msgid "Link"
+msgstr ""
+
+#: elementor/title/class.php:171
+msgid "Link Style"
+msgstr ""
+
+#: elementor/features/class.php:48
+msgid "List Text"
+msgstr ""
+
+#: elementor/contact/class.php:39 elementor/contact/class.php:65
+msgid "List Title"
+msgstr ""
+
+#: elementor/locations/class.php:21 elementor/locations/class.php:41
+msgid "Locations"
+msgstr ""
+
+#: widgets/about.php:79
+msgid "Logo Image"
+msgstr ""
+
+#: elementor/banner/class.php:120
+msgid "Map Marker 1"
+msgstr ""
+
+#: elementor/banner/class.php:129
+msgid "Map Marker 2"
+msgstr ""
+
+#: elementor/banner/class.php:138
+msgid "Map Marker 3"
+msgstr ""
+
+#: elementor/banner/class.php:147
+msgid "Map Marker 4"
+msgstr ""
+
+#: elementor/banner/class.php:111
+msgid "Map Shape Image"
+msgstr ""
+
+#: inc/post-meta.php:129
+msgid "Max input number will be 100"
+msgstr ""
+
+#: elementor/members/class.php:22 elementor/members/class.php:42
+#: elementor/groups/class.php:33
+msgid "Member"
+msgstr ""
+
+#: inc/post-meta.php:132
+msgid "Menu background height"
+msgstr ""
+
+#: inc/post-meta.php:110
+msgid "Menu Transparent"
+msgstr ""
+
+#: inc/post-meta.php:175 inc/post-meta.php:178
+msgid "Mesonry Image"
+msgstr ""
+
+#: elementor/posts/class.php:164
+msgid "Meta Date"
+msgstr ""
+
+#: elementor/posts/class.php:209
+msgid "Meta Hover"
+msgstr ""
+
+#: elementor/posts/class.php:188
+msgid "Meta Style"
+msgstr ""
+
+#: elementor/mobile-apps/class.php:21 elementor/mobile-apps/class.php:31
+msgid "Mobile Apps"
+msgstr ""
+
+#: elementor/testimonial/class.php:204
+msgid "Mobile Small View"
+msgstr ""
+
+#: elementor/testimonial/class.php:196
+msgid "Mobile View"
+msgstr ""
+
+#: elementor/testimonial/class.php:43 elementor/testimonial/class.php:224
+msgid "Name"
+msgstr ""
+
+#: elementor/near-people/class.php:23
+msgid "Near People"
+msgstr ""
+
+#: inc/rt-posts.php:45
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: inc/rt-posts.php:111
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: elementor/newsletter/class.php:21 elementor/newsletter/class.php:31
+msgid "Newsletter"
+msgstr ""
+
+#: inc/rt-posts.php:116
+#, php-format
+msgid "No %s"
+msgstr ""
+
+#: inc/rt-posts.php:115
+#, php-format
+msgid "No %s found."
+msgstr ""
+
+#: elementor/banner/class.php:62 elementor/banner/class.php:230
+#: elementor/banner/class.php:253
+msgid "Number"
+msgstr ""
+
+#: widgets/post.php:137
+msgid "Number of Post"
+msgstr ""
+
+#: elementor/banner/class.php:69
+msgid "Number Text"
+msgstr ""
+
+#: elementor/posts/class.php:63 elementor/posts/class.php:73
+#: elementor/posts/class.php:83 elementor/posts/class.php:94
+#: elementor/testimonial/class.php:142 elementor/testimonial/class.php:150
+#: elementor/testimonial/class.php:166 elementor/testimonial/class.php:174
+msgid "Off"
+msgstr ""
+
+#: elementor/posts/class.php:47
+msgid "offset means start showing post not from the first post"
+msgstr ""
+
+#: elementor/posts/class.php:62 elementor/posts/class.php:72
+#: elementor/posts/class.php:82 elementor/posts/class.php:93
+#: elementor/testimonial/class.php:141 elementor/testimonial/class.php:149
+#: elementor/testimonial/class.php:165 elementor/testimonial/class.php:173
+msgid "On"
+msgstr ""
+
+#: widgets/post.php:132
+msgid "Order by"
+msgstr ""
+
+#: elementor/banner/class.php:172
+msgid "Padding"
+msgstr ""
+
+#: inc/rt-posts.php:105
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: inc/rt-posts.php:106
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: elementor/banner/class.php:100
+msgid "People BG Shape Image"
+msgstr ""
+
+#: elementor/banner/class.php:90
+msgid "People Shape Image"
+msgstr ""
+
+#: widgets/contact.php:110
+msgid "Phone"
+msgstr ""
+
+#: elementor/testimonial/class.php:33 elementor/testimonial/class.php:102
+msgid "Picture"
+msgstr ""
+
+#: inc/post-meta.php:43
+msgid "Pinterest"
+msgstr ""
+
+#: inc/rt-posts.php:103
+#, php-format
+msgid "Popular %s"
+msgstr ""
+
+#: inc/post-types.php:27
+msgid "Portfolio"
+msgstr ""
+
+#: inc/post-meta.php:144 inc/post-meta.php:156
+msgid "Portfolio Information"
+msgstr ""
+
+#: inc/post-meta.php:151
+msgid "Portfolio Location"
+msgstr ""
+
+#: inc/post-meta.php:147
+msgid "Portfolio Sub Title"
+msgstr ""
+
+#: inc/post-types.php:28
+msgid "Portfolios"
+msgstr ""
+
+#: elementor/posts/class.php:44
+msgid "Post Offset"
+msgstr ""
+
+#: elementor/posts/class.php:21 elementor/posts/class.php:31
+msgid "Posts"
+msgstr ""
+
+#: elementor/members/class.php:48 elementor/groups/class.php:40
+msgid "Posts Per Page"
+msgstr ""
+
+#: elementor/prograss/class.php:20
+msgid "Prograss"
+msgstr ""
+
+#. Author of the plugin
+msgid "RadiusTheme"
+msgstr ""
+
+#: elementor/init.php:129
+msgid "RadiusTheme Elements"
+msgstr ""
+
+#: elementor/banner/class.php:42 elementor/banner/class.php:94
+#: elementor/banner/class.php:104 elementor/banner/class.php:115
+#: elementor/banner/class.php:124 elementor/banner/class.php:133
+#: elementor/banner/class.php:142 elementor/banner/class.php:151
+#: elementor/video/class.php:42 elementor/video/class.php:52
+#: elementor/near-people/class.php:44
+msgid "Recommended full image"
+msgstr ""
+
+#: elementor/base.php:108
+msgid "Right"
+msgstr ""
+
+#: inc/post-meta.php:65
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/rt-posts.php:48 inc/rt-posts.php:102
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: elementor/title/class.php:22
+msgid "Section Title"
+msgstr ""
+
+#: elementor/testimonial/class.php:159
+msgid "Select any value for autopaly speed. Default: 2000"
+msgstr ""
+
+#: elementor/testimonial/class.php:183
+msgid "Select any value for desktop device show. Default: 3"
+msgstr ""
+
+#: elementor/testimonial/class.php:199
+msgid "Select any value for mobile device show. Default: 1"
+msgstr ""
+
+#: elementor/testimonial/class.php:207
+msgid "Select any value for small mobile device show. Default: 1"
+msgstr ""
+
+#: elementor/testimonial/class.php:191
+msgid "Select any value for tab device show. Default: 2"
+msgstr ""
+
+#: inc/rt-posts.php:112
+#, php-format
+msgid "Separate %s with commas"
+msgstr ""
+
+#: inc/post-types.php:20
+msgid "Service"
+msgstr ""
+
+#: inc/post-types.php:21
+msgid "Services"
+msgstr ""
+
+#: inc/social-share.php:46
+msgid "Share:"
+msgstr ""
+
+#: elementor/newsletter/class.php:48
+msgid "Shortcode"
+msgstr ""
+
+#: elementor/chooseus/class.php:93
+msgid "Side image"
+msgstr ""
+
+#: inc/post-meta.php:248
+msgid "Skill Name"
+msgstr ""
+
+#: inc/post-meta.php:253
+msgid "Skill Persantage"
+msgstr ""
+
+#: inc/post-meta.php:239
+msgid "Skill Title"
+msgstr ""
+
+#: elementor/testimonial/class.php:180
+msgid "Slide To Show"
+msgstr ""
+
+#: elementor/testimonial/class.php:135
+msgid "Slider Options"
+msgstr ""
+
+#: widgets/about-me.php:57
+msgid "Social:"
+msgstr ""
+
+#: elementor/near-people/class.php:55
+msgid "State/Region"
+msgstr ""
+
+#: elementor/members/class.php:66 elementor/posts/class.php:111
+#: elementor/posts/class.php:127 elementor/groups/class.php:52
+#: elementor/prograss/class.php:66 elementor/testimonial/class.php:218
+#: elementor/chooseus/class.php:111 elementor/banner/class.php:163
+#: elementor/button/class.php:68 elementor/title/class.php:89
+#: elementor/video/class.php:86 elementor/near-people/class.php:69
+msgid "Style"
+msgstr ""
+
+#: widgets/ad-widget.php:95 elementor/title/class.php:70
+msgid "Sub Title"
+msgstr ""
+
+#: elementor/title/class.php:127
+msgid "Sub Title Style"
+msgstr ""
+
+#: elementor/testimonial/class.php:188
+msgid "Tab View"
+msgstr ""
+
+#: inc/post-types.php:35
+msgid "Team"
+msgstr ""
+
+#: inc/post-meta.php:229 inc/post-meta.php:269
+msgid "Team Bio Text"
+msgstr ""
+
+#: inc/post-meta.php:225 inc/post-meta.php:265
+msgid "Team Bio Title"
+msgstr ""
+
+#: inc/post-meta.php:222
+msgid "Team Biography"
+msgstr ""
+
+#: inc/post-meta.php:276
+msgid "Team Contact"
+msgstr ""
+
+#: inc/post-meta.php:195
+msgid "Team Designation"
+msgstr ""
+
+#: inc/post-meta.php:262
+msgid "Team Diversity"
+msgstr ""
+
+#: inc/post-meta.php:192 inc/post-meta.php:200
+msgid "Team Information"
+msgstr ""
+
+#: inc/post-meta.php:236
+msgid "Team Skills"
+msgstr ""
+
+#: inc/post-meta.php:244
+msgid "Team Skills List"
+msgstr ""
+
+#: inc/post-meta.php:217
+msgid "Team Socials"
+msgstr ""
+
+#: inc/post-types.php:36
+msgid "Teams"
+msgstr ""
+
+#: elementor/testimonial/class.php:22
+msgid "Testimonial"
+msgstr ""
+
+#: elementor/testimonial/class.php:70
+msgid "Testimonial Items"
+msgstr ""
+
+#: elementor/testimonial/class.php:45
+msgid "Testimonial Name"
+msgstr ""
+
+#: elementor/testimonial/class.php:59
+msgid "Testimonial Text"
+msgstr ""
+
+#: elementor/prograss/class.php:48 elementor/testimonial/class.php:264
+#: elementor/chooseus/class.php:80 elementor/button/class.php:38
+#: elementor/features/class.php:167
+msgid "Text"
+msgstr ""
+
+#: inc/post-meta.php:180
+msgid ""
+"This is portfolio mesonry image filed. This image work only mesonry layout."
+msgstr ""
+
+#: inc/post-meta.php:167 inc/post-meta.php:211
+msgid "This is team member profile info text"
+msgstr ""
+
+#: inc/post-meta.php:162 inc/post-meta.php:206
+msgid "This is team member profile info title"
+msgstr ""
+
+#: inc/post-meta.php:250
+msgid "This is team member skill name"
+msgstr ""
+
+#: inc/post-meta.php:255
+msgid ""
+"This is team member skill persantage, Please put persantage with %, like as "
+"(90%)"
+msgstr ""
+
+#: widgets/post.php:141
+msgid "Thumbnail Image"
+msgstr ""
+
+#: widgets/newsletter.php:73 widgets/post.php:117 widgets/post.php:123
+#: widgets/about.php:75 widgets/ad-widget.php:91 widgets/about-me.php:97
+#: widgets/contact.php:102 elementor/posts/class.php:132
+#: elementor/prograss/class.php:42 elementor/chooseus/class.php:40
+#: elementor/banner/class.php:48 elementor/banner/class.php:182
+#: elementor/newsletter/class.php:36 elementor/title/class.php:39
+#: elementor/near-people/class.php:75 elementor/features/class.php:41
+#: elementor/features/class.php:127
+msgid "Title"
+msgstr ""
+
+#: elementor/chooseus/class.php:63 elementor/title/class.php:62
+#: elementor/video/class.php:70
+msgid "Title Alignment"
+msgstr ""
+
+#: elementor/posts/class.php:151
+msgid "Title Hover"
+msgstr ""
+
+#: elementor/members/class.php:72 elementor/groups/class.php:58
+#: elementor/chooseus/class.php:117 elementor/title/class.php:95
+msgid "Title Style"
+msgstr ""
+
+#: elementor/posts/class.php:36
+msgid "Total number of post Member"
+msgstr ""
+
+#: inc/post-meta.php:31
+msgid "Twitter"
+msgstr ""
+
+#: elementor/members/class.php:87 elementor/posts/class.php:145
+#: elementor/posts/class.php:203 elementor/groups/class.php:73
+#: elementor/prograss/class.php:110 elementor/prograss/class.php:137
+#: elementor/testimonial/class.php:237 elementor/testimonial/class.php:257
+#: elementor/testimonial/class.php:277 elementor/chooseus/class.php:132
+#: elementor/chooseus/class.php:154 elementor/chooseus/class.php:181
+#: elementor/banner/class.php:198 elementor/banner/class.php:222
+#: elementor/banner/class.php:245 elementor/banner/class.php:268
+#: elementor/banner/class.php:291 elementor/button/class.php:88
+#: elementor/title/class.php:110 elementor/title/class.php:142
+#: elementor/title/class.php:164 elementor/title/class.php:188
+#: elementor/near-people/class.php:88 elementor/features/class.php:141
+msgid "Typography"
+msgstr ""
+
+#: inc/rt-posts.php:109
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: inc/rt-posts.php:56
+#, php-format
+msgid "Uploaded to this %s"
+msgstr ""
+
+#: widgets/contact.php:118
+msgid "Version"
+msgstr ""
+
+#: elementor/video/class.php:21 elementor/video/class.php:31
+msgid "Video Button"
+msgstr ""
+
+#: elementor/video/class.php:57
+msgid "Video link"
+msgstr ""
+
+#: elementor/video/class.php:63
+msgid "Video play icon"
+msgstr ""
+
+#: inc/rt-posts.php:46 inc/rt-posts.php:47 inc/rt-posts.php:108
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: inc/demo-importer.php:41
+msgid ""
+"Warning: All your old data will be lost if you install One Click demo data "
+"from here, so it is suitable only for a new website."
+msgstr ""
+
+#: elementor/chooseus/class.php:23
+msgid "Why Choose Us"
+msgstr ""
+
+#: widgets/post.php:145
+msgid "With Thumbnail"
+msgstr ""
+
+#: widgets/post.php:144
+msgid "Without Thumbnail"
+msgstr ""
+
+#: elementor/posts/class.php:39
+msgid "Write -1 to show all"
+msgstr ""
